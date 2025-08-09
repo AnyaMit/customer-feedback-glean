@@ -1,0 +1,17 @@
+# Core app dependencies
+streamlit
+pandas
+
+# Embeddings and vector search
+sentence-transformers
+faiss-cpu
+
+# Local LLM integration
+ollama
+
+# Clustering (Approach 2+)
+scikit-learn
+
+# Utilities
+tqdm
+python-dotenv
