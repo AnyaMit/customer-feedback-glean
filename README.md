@@ -37,7 +37,7 @@ We support both **Ollama models** and **get-oss models** for maximum flexibility
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-org>/customer-feedback-glean.git
+git clone git clone https://github.com/<your-org>/customer-feedback-glean.git
 cd customer-feedback-glean
 ```
 
