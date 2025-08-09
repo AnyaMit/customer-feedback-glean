@@ -37,8 +37,9 @@ We support both **Ollama models** and **get-oss models** for maximum flexibility
 
 ### 2. Clone the Repository
 ```bash
-git clone git clone https://github.com/<your-org>/customer-feedback-glean.git
+git clone https://github.com/AnyaMit/customer-feedback-glean.git
 cd customer-feedback-glean
+
 ```
 
 ### 3. Set Up Python Environment
