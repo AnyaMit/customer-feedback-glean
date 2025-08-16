@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+artifacts/
+*.bak
+.DS_Store
