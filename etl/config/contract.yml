@@ -1,0 +1,13 @@
+columns:
+  feedback_id: ["Complaint ID"]
+  created_at:  ["Date received"]
+  user_id:     ["ZIP code"]            # proxy for user; adjust if you prefer "State"
+  channel:     ["Submitted via"]
+  rating:      []                      # not present; leave empty
+  text:        ["Consumer complaint narrative"]
+
+rules:
+  required: ["created_at", "text"]     # rows without narrative will go to rejects
+  types:
+    created_at: "datetime"
+    rating: "float"
