@@ -1,4 +1,4 @@
-nstructions
+Instructions
 
 This project implements a medallion architecture (bronze → silver → gold) for customer feedback data, followed by embedding + FAISS indexing for retrieval.
 
